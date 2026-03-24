@@ -19,7 +19,7 @@ const About = () => {
           >
             <div className="relative w-56 h-56 sm:w-80 sm:h-80 rounded-xl overflow-hidden card-surface">
               <img
-                src="public/profile.png"
+                src="/profile.png"
                 alt="Rajarajan R profile"
                 className="w-full h-full object-cover"
               />
