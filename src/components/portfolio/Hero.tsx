@@ -98,7 +98,7 @@ const Hero = () => {
               View Projects
             </a>
             <a
-              href="public/Rajarajan_R_MERN.pdf"
+              href="/Rajarajan_R_MERN.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 border border-primary text-primary font-medium rounded-lg active-scale hover:bg-primary/10 transition-all"

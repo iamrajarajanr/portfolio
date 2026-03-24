@@ -71,7 +71,7 @@ const About = () => {
                   More About Me
                 </a>
                 <a
-                  href="public/Rajarajan_R_MERN.pdf"
+                  href="/Rajarajan_R_MERN.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-5 py-2.5 border border-border text-sm font-medium rounded-lg active-scale hover:bg-secondary transition-all"
